@@ -6,3 +6,4 @@ print(workers_file.read())#read يقرأ الملف ويطبعه
 print(workers_file.readlines()[1])#readlines يقرأ الملف ويطبعه على طريقة الليست وممكن تحدد السطر اللي بدك تقرأه
 workers_file.close()#close يجب اغلاق الملف بعد فتحه
 # Mazenabosedo
+# Abosedomazen
